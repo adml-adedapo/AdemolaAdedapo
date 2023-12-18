@@ -1,4 +1,4 @@
-Verifiable work experience as a Data Analyst
+Hi I'm Ade! Here's some of my work as a Data Analyst
 
 Data Analyst Portfolio: https://adml-adedapo.github.io/portfolio
 
